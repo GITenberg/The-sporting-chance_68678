@@ -1,0 +1,27 @@
+_repo: The-sporting-chance_68678
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Askew, Claude
+    gutenberg_agent_id: '54900'
+    url: http://www.gutenberg.org/2009/agents/54900
+  - agent_name: Askew, Alice
+    gutenberg_agent_id: '54899'
+    url: http://www.gutenberg.org/2009/agents/54899
+description: ''
+gutenberg_issued: '2022-08-03'
+identifiers:
+  gutenberg: '68678'
+language: en
+pgterms:marc905: 20220715165611askew
+pgterms:marc906: '1910'
+pgterms:marc907: GB
+production_note: Al Haines
+publication_note: United Kingdom :Ward, Lock & Co., Limited,1910.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The sporting chance
+url: http://www.gutenberg.org/ebooks/68678
