@@ -1,5 +1,8 @@
 _repo: The-sporting-chance_68678
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68678-h/images/img-cover.jpg
 creator:
   authors:
   - agent_name: Askew, Claude
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '54899'
     url: http://www.gutenberg.org/2009/agents/54899
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68678#The-sporting-chance
 gutenberg_issued: '2022-08-03'
 identifiers:
   gutenberg: '68678'
